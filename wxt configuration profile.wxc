@@ -1,0 +1,74 @@
+[Device]
+Baud=19200
+Data=8
+Parity=None
+Stopbits=1
+RS-485 line delay=25
+Address=0
+Type=RS-232
+Communication protocol=ASCII auto
+[Wind]
+Update interval=1
+Speed unit=m/s
+Direction alignment=0
+Averaging time=1
+Use XDR in NMEA wind=MWV
+[Wind message]
+Direction minimum=Enabled
+Direction average=Enabled
+Direction maximum=Enabled
+Speed minimum=Enabled
+Speed average=Enabled
+Speed maximum=Enabled
+[PTU]
+Update interval=1
+Pressure unit=hPa
+Temperature unit=Celsius
+[PTU message]
+Air temperature=Enabled
+Pressure temperature=Enabled
+Relative humidity=Enabled
+Barometric pressure=Enabled
+[Precipitation]
+Auto report interval=5
+Rain unit=Metric
+Hail unit=Metric
+Auto mode=Rain start/end
+Counter reset=Automatic
+[Precipitation message]
+Rain amount=Enabled
+Rain duration=Enabled
+Rain intensity=Enabled
+Hail amount=Enabled
+Hail duration=Enabled
+Hail intensity=Enabled
+[Self diagnostic]
+Update interval=5
+Enable heating=Enabled
+Error messaging=Enabled
+[Self diagn. message]
+Heating temperature=Enabled
+Heat voltage=Enabled
+Supply voltage=Enabled
+3.5V reference voltage=Enabled
+[Composite message]
+Supply voltage=Enabled
+3.5V reference voltage=Enabled
+Direction minimum=Enabled
+Direction average=Enabled
+Direction maximum=Enabled
+Speed minimum=Enabled
+Speed average=Enabled
+Speed maximum=Enabled
+Air temperature=Enabled
+Pressure temperature=Enabled
+Relative humidity=Enabled
+Barometric pressure=Enabled
+Rain amount=Enabled
+Rain duration=Enabled
+Rain intensity=Enabled
+Hail amount=Enabled
+Hail duration=Enabled
+Hail intensity=Enabled
+Heating temperature=Enabled
+Heat voltage=Enabled
