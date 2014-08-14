@@ -1,9 +1,9 @@
 WXT510 in DAQFactory
 ====================
 
-This project is no longer actively developed. The last known update occurred 
-2010-Nov-2. Users are encouraged to use an SDI-12 compatible datalogger such as
-the CR1000 or CR3000 by Campbell Scientific Inc.
+> This project is no longer actively developed. The last known update occurred 
+> 2010-Nov-2. Users are encouraged to use an SDI-12 compatible datalogger such 
+> as the CR1000 or CR3000 by Campbell Scientific Inc.
 
 ### Some notes
 
