@@ -29,3 +29,8 @@ The low-level driver for WXT510 is maintained in
 ### License
 
 This work is licensed under [The MIT License](http://opensource.org/licenses/mit-license.html).
+
+### Disclaimer
+
+This work is not affiliated with or endorsed by Vaisala, Inc., the maker of
+the WXT510 weather transmitter.
