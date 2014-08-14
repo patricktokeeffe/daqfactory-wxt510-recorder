@@ -12,7 +12,8 @@ DAQFactory.exe processes prior to starting DAQFactory, which ensures COM ports
 are released. `forcedCleanShutdown.bat` is called automatically upon exiting
 DAQFactory.
 
-The low-level driver for WXT510 is maintained in a separate Git repository.
+The low-level driver for WXT510 is maintained in 
+[a separate Git repository](https://bitbucket.org/patricktokeeffe/daqfactory-pvaisala-wxt510).
 
 ### Future work
 
