@@ -25,3 +25,7 @@ The low-level driver for WXT510 is maintained in
 - Diagnostic file will have mismatched records
 - Display is Visually confusing
 - File-splitting by length (daily, hourly, etc) untested
+
+### License
+
+This work is licensed under [The MIT License](http://opensource.org/licenses/mit-license.html).
