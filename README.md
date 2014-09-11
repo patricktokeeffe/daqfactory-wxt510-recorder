@@ -13,7 +13,7 @@ are released. `forcedCleanShutdown.bat` is called automatically upon exiting
 DAQFactory.
 
 The low-level driver for WXT510 is maintained in 
-[a separate Git repository](https://bitbucket.org/patricktokeeffe/daqfactory-pvaisala-wxt510).
+[a separate Git repository](https://github.com/patricktokeeffe/daqfactory-pVaisala-WXT510.git).
 
 ### Future work
 
